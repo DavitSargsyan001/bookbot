@@ -1,2 +1,3 @@
 # bookbot
-reads books and prints out the number of times each letter occurs in the book
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
